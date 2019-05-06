@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="eimzoClient:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/eimzoClient_jar</output-path>
+    <root id="archive" name="WebSocketClientTest.jar">
+      <element id="module-output" name="eimzoClient" />
+    </root>
+  </artifact>
+</component>
